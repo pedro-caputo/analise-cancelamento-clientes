@@ -139,7 +139,7 @@ original do curso.
 ## Autor
 
 **Pedro Henrique Caputo**
-[LinkedIn](#) · [GitHub](https://github.com/pedro-caputo)
+[LinkedIn](https://www.linkedin.com/in/pedro-caputo/) · [GitHub](https://github.com/pedro-caputo)
 
 ## Licença
 
